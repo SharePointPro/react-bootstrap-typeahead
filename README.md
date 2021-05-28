@@ -1,3 +1,10 @@
+# Forked from Ericgio
+Original version worked with the exception of the value not being set on "TAB" click.. 
+
+This version sets the value to the selected value when the user clicks TAB.
+
+I will try and keep it upto date with the original repository.
+
 # React Bootstrap Typeahead
 A [React](https://reactjs.org/)-based typeahead that relies on [Bootstrap](https://getbootstrap.com/) for styling and was originally inspired by Twitter's [typeahead.js](https://github.com/twitter/typeahead.js). It supports both single- and multi-selection and is compliant with [WAI-ARIA authoring practices](https://www.w3.org/TR/wai-aria-practices-1.1/#combobox). Try the [live examples](http://ericgio.github.io/react-bootstrap-typeahead/).
 
@@ -12,11 +19,11 @@ Please note that documentation and examples apply to the most recent release and
 ## Installation
 
 ```
-npm install --save react-bootstrap-typeahead
+npm install --save sppro-react-bootstrap-typeahead
 ```
 or
 ```
-yarn add react-bootstrap-typeahead
+yarn add sppro-react-bootstrap-typeahead
 ```
 
 Include the module in your project:
